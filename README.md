@@ -9,10 +9,10 @@ Well writing blog posts, working on some cool projects/papers/designs are a grea
 So, what else do you need?🤔.
 <p align="center"><img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width = 40%></p>
 
-Here is the answer: An awesome personal website of yours that serves a portfolio of your work! 
+Here is the answer: An awesome personal website of yours that serves a portfolio of your work!
 <p align="center"><img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width = 40%></p>
 
-If you do not have a platform that shows your entire work then you might not be doing justice in potraying your hard work or dope skills. But you must be wondering that making a portfolio website might take time, require some web development knowledge and still you might get something really cool. 
+If you do not have a platform that shows your entire work then you might not be doing justice in potraying your hard work or dope skills. But you must be wondering that making a portfolio website might take time, require some web development knowledge and still you might get something really cool.
 <p align="center"><img src="https://media.giphy.com/media/521JLj0YGzz6AEWsZ5/giphy.gif" width = 40%></p>
 
 Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portfolio Wesbite__ is here for the rescue!
@@ -43,7 +43,7 @@ Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portf
 
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further
 
-To start contributing, follow the below guidelines: 
+To start contributing, follow the below guidelines:
 
 **1.**  Fork [this](https://github.com/smaranjitghose/awesome-portfolio-websites) repository.
 
@@ -63,7 +63,7 @@ cd awesome-portfolio-websites
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/smaranjitghose/awesome-portfolio-websites.git 
+git remote add upstream https://github.com/smaranjitghose/awesome-portfolio-websites.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -91,7 +91,7 @@ git checkout -b <your_branch_name>
 **9.** Track your changes:heavy_check_mark: .
 
 ```
-git add . 
+git add .
 ```
 
 **10.** Commit your changes .
@@ -141,7 +141,7 @@ git push -u origin <your_branch_name>
   <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
 </a>
 
-## Open Source Programs we have been associated with: 
+## Open Source Programs we have been associated with:
 
 <p align="center">
 <a href="https://scodein.tech/"><img src="./readme_assets/sci.png" width= "25%"/></a>
@@ -155,5 +155,5 @@ git push -u origin <your_branch_name>
 ## Code of Conduct
 <p align="center"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></p>
 
-## License 
+## License
 <p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
